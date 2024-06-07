@@ -7,6 +7,8 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+It is the systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems.
+
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
