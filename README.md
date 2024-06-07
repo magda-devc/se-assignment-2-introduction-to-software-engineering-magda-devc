@@ -8,6 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
+
 It is the systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems. It also involves the design, development, testing, deployment and maintenance of software products.
 Software engineering involves developing systems that power various aspects of modern life, it applies scientific and mathematical principles to the design, analysis and implementation of software systems while traditinal programming is just writing code to solve specific problems.
 
